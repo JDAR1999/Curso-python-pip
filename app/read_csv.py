@@ -1,3 +1,4 @@
+###  Algoritmo para abrir documento .csv y asignarle formato de diccionario
 import csv
 
 def read_csv(path):
